@@ -1,0 +1,8 @@
+numpy==1.19.5
+pandas==2.2.2
+sckit_learn==1.5.1
+joblib==1.2.0
+scipy==1.6.0
+seaborn==0.13.2
+#imbalance-learn=
+##on l'execute avec pip install requirements
